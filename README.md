@@ -5,3 +5,4 @@ Chang to merge
 to commit
 commit
 conflict-remote上で更新 conflict occur
+自分のリポジトリで更新
